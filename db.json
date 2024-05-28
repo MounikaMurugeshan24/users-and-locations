@@ -2,7 +2,7 @@
   "users": [
     {
       "0": "Country",
-      "1": "Population",
+      "1": "users",
       "id": "d1fb"
     },
     {
@@ -14,16 +14,6 @@
       "0": "United States",
       "1": 300,
       "id": "d3fb"
-    },
-    {
-      "0": "default",
-      "1": 34,
-      "id": "c93b"
-    },
-    {
-      "0": "United States",
-      "1": 34534,
-      "id": "28df"
     }
   ],
   "countries": [
